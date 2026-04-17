@@ -1,4 +1,4 @@
-<img width="514" height="760" alt="Screenshot 2026-04-17 214703" src="https://github.com/user-attachments/assets/abf0b635-9a48-42d5-bffb-cf716244b9ab" />
+
 # 🛡️ RNN Email Spam Classifier
 
 A Bidirectional LSTM model built with TensorFlow/Keras for binary email spam classification. Trained on 3,000 emails, the model achieves **98.67% accuracy** and an **AUC-ROC of 0.9998**.
@@ -8,6 +8,7 @@ A Bidirectional LSTM model built with TensorFlow/Keras for binary email spam cla
 ---
 <img width="510" height="745" alt="Screenshot 2026-04-17 214238" src="https://github.com/user-attachments/assets/7e4f9533-9f10-4ea6-9216-b522d44871f2" />
 
+---
 <img width="514" height="760" alt="Screenshot 2026-04-17 214703" src="https://github.com/user-attachments/assets/c8373759-7142-4ff3-a29b-f17723651575" />
 
 ## 📊 Results
