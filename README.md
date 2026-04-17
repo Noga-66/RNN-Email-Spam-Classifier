@@ -5,6 +5,7 @@ A Bidirectional LSTM model built with TensorFlow/Keras for binary email spam cla
 🔗 **[Live Demo](https://noga-66.github.io/RNN-Email-Spam-Classifier/)**
 
 ---
+<img width="510" height="745" alt="Screenshot 2026-04-17 214238" src="https://github.com/user-attachments/assets/7e4f9533-9f10-4ea6-9216-b522d44871f2" />
 
 ## 📊 Results
 
